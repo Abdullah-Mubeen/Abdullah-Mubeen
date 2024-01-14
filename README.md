@@ -1,7 +1,7 @@
 ![logo](https://github.com/Abdullah-Mubeen/Abdullah-Mubeen/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Abdullah Mubeen</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xjbm11N2RoMm1lZ2k4aGMzOW1oMDczaHFuenhrc2QybWl1NHprcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
