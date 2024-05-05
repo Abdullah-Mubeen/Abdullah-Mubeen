@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-mubeen&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-mubeen" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and TypeScript**
 
 - 📫 How to reach me **abdulmubi111@gmail.com**
 
