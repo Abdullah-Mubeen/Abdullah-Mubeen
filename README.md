@@ -19,86 +19,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
-  <!-- HTML icon -->
-  <div>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-    </a>
-    <p>HTML</p>
-  </div>
-
-  <!-- CSS icon -->
-  <div>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-    </a>
-    <p>CSS</p>
-  </div>
-
-  <!-- JavaScript icon -->
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    </a>
-    <p>JavaScript</p>
-  </div>
-
-  <!-- Python icon -->
-  <div>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    </a>
-    <p>Python</p>
-  </div>
-
-  <!-- TypeScript icon -->
-  <div>
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-    </a>
-    <p>TypeScript</p>
-  </div>
-
-  <!-- Microsoft SQL Server icon -->
-  <div>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Microsoft SQL Server" width="50" height="50"/>
-    </a>
-    <p>MS SQL Server</p>
-  </div>
-
-  <!-- PostgreSQL icon -->
-  <div>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968354.png" alt="PostgreSQL" width="50" height="50"/>
-    </a>
-    <p>PostgreSQL</p>
-  </div>
-
-  <!-- React.js icon -->
-  <div>
-    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50"/>
-    </a>
-    <p>React.js</p>
-  </div>
-
-  <!-- Next.js icon -->
-  <div>
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50"/>
-    </a>
-    <p>Next.js</p>
-  </div>
-
-  <!-- Generative AI icon -->
-  <div>
-    <a href="https://openai.com" target="_blank" rel="noreferrer">
-      <img src="https://cdn-icons-png.flaticon.com/512/327/327779.png" alt="Generative AI" width="50" height="50"/>
-    </a>
-    <p>Generative AI</p>
-  </div>
-</div>
-
-
+<p align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(50px, 1fr)); gap: 15px;">
+  <!-- Existing icons with new styles -->
+  <a href="https://angular.io" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="50" height="50" style="box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <!-- ... other icons ... -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="transition: transform 0.2s;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <!-- Add new icons here -->
+</p>
