@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
+<p style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       align="center"
