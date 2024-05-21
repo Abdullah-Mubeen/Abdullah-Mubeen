@@ -1,0 +1,14 @@
+.icon a {
+    transition: transform 0.2s; /* Smooth transition for scaling */
+  }
+  .icon img {
+    filter: drop-shadow(2px 2px 10px rgba(255, 255, 255, 0.5)); /* White shadow */
+    transition: transform 0.2s; /* Smooth transition for scaling */
+  }
+  .icon img:hover {
+    transform: scale(1.1); /* Slightly larger on hover */
+  }
+  .icon p {
+    text-align: center;
+    color: white;
+  }
