@@ -17,32 +17,11 @@
 <a href="https://linkedin.com/in/abdullah mubeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah mubeen" height="30" width="40" /></a>
 <a href="https://fb.com/abdullah mubeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah mubeen" height="30" width="40" /></a>
 </p>
-<style>
-     .icon a {
-      transition: transform 0.2s; /* Smooth transition for scaling */
-    }
-    .icon img {
-      filter: drop-shadow(2px 2px 10px rgba(255, 255, 255, 0.5)); /* White shadow */
-      transition: transform 0.2s; /* Smooth transition for scaling */
-    }
-    .icon img:hover {
-      transform: scale(1.1); /* Slightly larger on hover */
-    }
-    .icon p {
-      text-align: center;
-      color: white;
-    }
-</style>
+<!-- Link to your external stylesheet -->
+<link rel="stylesheet" href="styles.css">
 
 <h3 align="left">Languages and Tools:</h3>
-<div
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    gap: 20px;
-  "
->
+<div class="languages-tools">
   <!-- HTML icon -->
   <div class="icon">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -52,8 +31,8 @@
         width="50"
         height="50"
       />
+      <p>HTML</p>
     </a>
-    <p>HTML</p>
   </div>
 
   <!-- CSS icon -->
@@ -65,8 +44,8 @@
         width="50"
         height="50"
       />
+      <p>CSS</p>
     </a>
-    <p>CSS</p>
   </div>
 
   <!-- JavaScript icon -->
@@ -82,8 +61,8 @@
         width="50"
         height="50"
       />
+      <p>JavaScript</p>
     </a>
-    <p>JavaScript</p>
   </div>
 
   <!-- Python icon -->
@@ -95,8 +74,8 @@
         width="50"
         height="50"
       />
+      <p>Python</p>
     </a>
-    <p>Python</p>
   </div>
 
   <!-- TypeScript icon -->
@@ -108,8 +87,8 @@
         width="50"
         height="50"
       />
+      <p>TypeScript</p>
     </a>
-    <p>TypeScript</p>
   </div>
 
   <!-- Microsoft SQL Server icon -->
@@ -125,8 +104,8 @@
         width="50"
         height="50"
       />
+      <p>MS SQL Server</p>
     </a>
-    <p>MS SQL Server</p>
   </div>
 
   <!-- PostgreSQL icon -->
@@ -138,8 +117,8 @@
         width="50"
         height="50"
       />
+      <p>PostgreSQL</p>
     </a>
-    <p>PostgreSQL</p>
   </div>
 
   <!-- React.js icon -->
@@ -151,8 +130,8 @@
         width="50"
         height="50"
       />
+      <p>React.js</p>
     </a>
-    <p>React.js</p>
   </div>
 
   <!-- Next.js icon -->
@@ -164,8 +143,8 @@
         width="50"
         height="50"
       />
+      <p>Next.js</p>
     </a>
-    <p>Next.js</p>
   </div>
 
   <!-- Generative AI icon -->
@@ -177,8 +156,8 @@
         width="50"
         height="50"
       />
+      <p>Generative AI</p>
     </a>
-    <p>Generative AI</p>
   </div>
 </div>
 
