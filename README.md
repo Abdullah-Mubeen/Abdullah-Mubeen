@@ -1,5 +1,7 @@
 ![logo](https://github.com/Abdullah-Mubeen/Abdullah-Mubeen/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 
+<link rel="stylesheet" href="style.css">
+
 <h1 align="center">Hi 👋, I'm Abdullah Mubeen</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
@@ -17,9 +19,6 @@
 <a href="https://linkedin.com/in/abdullah mubeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah mubeen" height="30" width="40" /></a>
 <a href="https://fb.com/abdullah mubeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah mubeen" height="30" width="40" /></a>
 </p>
-<!-- Link to your external stylesheet -->
-<link rel="stylesheet" href="styles.css">
-
 <h3 align="left">Languages and Tools:</h3>
 <div
   style="
