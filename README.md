@@ -21,18 +21,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div
-  style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    gap: 20px;
-    align-items: center;
-  "
->
+
   <!-- HTML icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3.org/html/" target="_blank" rel="">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="HTML5"
@@ -40,12 +32,10 @@
         height="50"
       />
     </a>
-    HTML
-  </p>
 
   <!-- CSS icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="CSS3"
@@ -53,15 +43,13 @@
         height="50"
       />
     </a>
-    CSS
-  </p>
-
-  <!-- JavaScript icon -->
+    <!-- JavaScript icon -->
+  
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
       target="_blank"
-      rel="noreferrer"
+      rel=""
     >
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -70,12 +58,10 @@
         height="50"
       />
     </a>
-    JavaScript
-  </p>
-
+  
   <!-- Python icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org" target="_blank" rel="">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="Python"
@@ -83,12 +69,10 @@
         height="50"
       />
     </a>
-    Python
-  </p>
-
+  
   <!-- TypeScript icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <a href="https://www.typescriptlang.org" target="_blank" rel="">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="TypeScript"
@@ -96,15 +80,13 @@
         height="50"
       />
     </a>
-    TypeScript
-  </p>
-
+  
   <!-- Microsoft SQL Server icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
     <a
       href="https://www.microsoft.com/en-us/sql-server"
       target="_blank"
-      rel="noreferrer"
+      rel=""
     >
       <img
         src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"
@@ -113,12 +95,10 @@
         height="50"
       />
     </a>
-    MS SQL Server
-  </p>
-
+  
   <!-- PostgreSQL icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <a href="https://www.postgresql.org" target="_blank" rel="">
       <img
         src="https://cdn-icons-png.flaticon.com/512/5968/5968354.png"
         alt="PostgreSQL"
@@ -126,12 +106,10 @@
         height="50"
       />
     </a>
-    PostgreSQL
-  </p>
-
+  
   <!-- React.js icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
-    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+    <a href="https://reactjs.org" target="_blank" rel="">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="React.js"
@@ -139,12 +117,10 @@
         height="50"
       />
     </a>
-    React.js
-  </p>
-
+  
   <!-- Next.js icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <a href="https://nextjs.org" target="_blank" rel="">
       <img
         src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
         alt="Next.js"
@@ -152,12 +128,10 @@
         height="50"
       />
     </a>
-    Next.js
-  </p>
-
+  
   <!-- Generative AI icon -->
   <p style="display: flex; flex-direction: column; align-items: center; margin: 0;">
-    <a href="https://openai.com" target="_blank" rel="noreferrer">
+    <a href="https://openai.com" target="_blank" rel="">
       <img
         src="https://cdn-icons-png.flaticon.com/512/327/327779.png"
         alt="Generative AI"
@@ -165,6 +139,4 @@
         height="50"
       />
     </a>
-    Generative AI
-  </p>
-</div>
+  </div>
