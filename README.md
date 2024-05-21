@@ -21,7 +21,14 @@
 <link rel="stylesheet" href="styles.css">
 
 <h3 align="left">Languages and Tools:</h3>
-<div class="languages-tools">
+<div
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+  "
+>
   <!-- HTML icon -->
   <div class="icon">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -31,8 +38,8 @@
         width="50"
         height="50"
       />
-      <p>HTML</p>
     </a>
+    <p>HTML</p>
   </div>
 
   <!-- CSS icon -->
@@ -44,8 +51,8 @@
         width="50"
         height="50"
       />
-      <p>CSS</p>
     </a>
+    <p>CSS</p>
   </div>
 
   <!-- JavaScript icon -->
@@ -61,8 +68,8 @@
         width="50"
         height="50"
       />
-      <p>JavaScript</p>
     </a>
+    <p>JavaScript</p>
   </div>
 
   <!-- Python icon -->
@@ -74,8 +81,8 @@
         width="50"
         height="50"
       />
-      <p>Python</p>
     </a>
+    <p>Python</p>
   </div>
 
   <!-- TypeScript icon -->
@@ -87,8 +94,8 @@
         width="50"
         height="50"
       />
-      <p>TypeScript</p>
     </a>
+    <p>TypeScript</p>
   </div>
 
   <!-- Microsoft SQL Server icon -->
@@ -104,8 +111,8 @@
         width="50"
         height="50"
       />
-      <p>MS SQL Server</p>
     </a>
+    <p>MS SQL Server</p>
   </div>
 
   <!-- PostgreSQL icon -->
@@ -117,8 +124,8 @@
         width="50"
         height="50"
       />
-      <p>PostgreSQL</p>
     </a>
+    <p>PostgreSQL</p>
   </div>
 
   <!-- React.js icon -->
@@ -130,8 +137,8 @@
         width="50"
         height="50"
       />
-      <p>React.js</p>
     </a>
+    <p>React.js</p>
   </div>
 
   <!-- Next.js icon -->
@@ -143,8 +150,8 @@
         width="50"
         height="50"
       />
-      <p>Next.js</p>
     </a>
+    <p>Next.js</p>
   </div>
 
   <!-- Generative AI icon -->
@@ -156,8 +163,9 @@
         width="50"
         height="50"
       />
-      <p>Generative AI</p>
     </a>
+    <p>Generative AI</p>
   </div>
 </div>
+
 
