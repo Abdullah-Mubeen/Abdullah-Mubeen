@@ -78,7 +78,7 @@
   >
     <img
       align="center"
-      src="https://licendi.com/media/magefan_blog/2022/07/210904-Blog-Post-SQL-Server-2-e1630753848251.jpg"
+      src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg"
       alt="Microsoft SQL Server"
       width="40"
       height="40"
