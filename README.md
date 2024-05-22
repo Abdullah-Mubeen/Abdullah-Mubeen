@@ -21,103 +21,45 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); padding: 10px; border-radius: 10px;">
+<p align="left">
+  <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="HTML5"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
+  <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="CSS3"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript"
-      width="40"
-      height="40"
-    />
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="Python"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="TypeScript"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      align="center"
-      src="https://www.snaresolutions.com/wp-content/uploads/Snare_Central-Log-Management_Website-Images_Database-Activity-Monitoring-1030x900.png"
-      alt="Microsoft SQL Server"
-      width="40"
-      height="40"
-    />
+  <!-- Microsoft SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/>
   </a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"
-      alt="PostgreSQL"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React.js"
-      width="40"
-      height="40"
-    />
-  </a>
+  <!-- Next.js -->
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg"
-      alt="Next.js"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   </a>
+  <!-- Generative AI -->
   <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/327/327779.png"
-      alt="Generative AI"
-      width="40"
-      height="40"
-    />
+    <img src="https://cdn-icons-png.flaticon.com/512/327/327779.png" alt="Generative AI" width="40" height="40"/>
   </a>
 </p>
