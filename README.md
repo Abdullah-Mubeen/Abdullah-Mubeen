@@ -78,7 +78,7 @@
   >
     <img
       align="center"
-      src="https://banner2.cleanpng.com/20180614/sg/kisspng-microsoft-sql-server-sql-server-management-studio-transactional-analysis-5b2207401c5992.0038138215289567361161.jpg"
+      src="https://www.snaresolutions.com/wp-content/uploads/Snare_Central-Log-Management_Website-Images_Database-Activity-Monitoring-1030x900.png"
       alt="Microsoft SQL Server"
       width="40"
       height="40"
@@ -105,7 +105,7 @@
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img
       align="center"
-      src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
+      src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg"
       alt="Next.js"
       width="40"
       height="40"
