@@ -78,7 +78,7 @@
   >
     <img
       align="center"
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"
+      src="https://licendi.com/media/magefan_blog/2022/07/210904-Blog-Post-SQL-Server-2-e1630753848251.jpg"
       alt="Microsoft SQL Server"
       width="40"
       height="40"
@@ -87,7 +87,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       align="center"
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968354.png"
+      src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"
       alt="PostgreSQL"
       width="40"
       height="40"
