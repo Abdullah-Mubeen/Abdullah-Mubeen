@@ -11,7 +11,7 @@
 </p>
 
 <!-- Bio -->
-<p align="center">
+<p>
   🌱 I’m currently learning <strong>Python</strong> and <strong>TypeScript</strong><br/>
   💬 Ask me about <strong>Web Development</strong>, <strong>Full Stack Development</strong>, <strong>Algorithms</strong>, <strong>Tech Trends</strong><br/>
   📫 How to reach me: <a href="mailto:abdulmubi111@gmail.com">abdulmubi111@gmail.com</a><br/>
