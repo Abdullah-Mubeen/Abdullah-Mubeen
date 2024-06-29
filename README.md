@@ -6,7 +6,7 @@
 <p align="center">Software Engineer | Full Stack Developer | Tech Enthusiast</p>
 
 <!-- Bio -->
-<p align="center">
+<p>
   🌱 I’m currently learning <strong>Python</strong> and <strong>TypeScript</strong><br/>
   💬 Ask me about <strong>Web Development</strong>, <strong>Full Stack Development</strong>, <strong>Algorithms</strong>, <strong>Tech Trends</strong><br/>
   📫 How to reach me: <a href="mailto:abdulmubi111@gmail.com">abdulmubi111@gmail.com</a><br/>
@@ -45,7 +45,7 @@
 </p>
 
 <!-- Featured Projects -->
-<h3 align="center">📂 Featured Projects</h3>
+<!--<h3 align="center">📂 Featured Projects</h3>
 <p align="center">
   <a href="https://github.com/abdullah-mubeen/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project1&theme=algolia" alt="Project 1" />
@@ -53,16 +53,13 @@
   <a href="https://github.com/abdullah-mubeen/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project2&theme=algolia" alt="Project 2" />
   </a>
-</p>
+</p> -->
 
 <!-- Connect with me -->
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abdullah-mubeen" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/abdullah-mubeen" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
