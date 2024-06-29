@@ -3,15 +3,10 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi there, I'm Abdullah Mubeen 👋</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Tech Enthusiast</h3>
-
-<!-- Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullah-mubeen&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-mubeen" />
-</p>
+<p align="center">Software Engineer | Full Stack Developer | Tech Enthusiast</p>
 
 <!-- Bio -->
-<p>
+<p align="center">
   🌱 I’m currently learning <strong>Python</strong> and <strong>TypeScript</strong><br/>
   💬 Ask me about <strong>Web Development</strong>, <strong>Full Stack Development</strong>, <strong>Algorithms</strong>, <strong>Tech Trends</strong><br/>
   📫 How to reach me: <a href="mailto:abdulmubi111@gmail.com">abdulmubi111@gmail.com</a><br/>
@@ -44,36 +39,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-mubeen&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
-
 <!-- Featured Projects -->
 <h3 align="center">📂 Featured Projects</h3>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/abdullah-mubeen/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project1&theme=algolia" alt="Project 1" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project1&theme=algolia" alt="Project 1" />
   </a>
   <a href="https://github.com/abdullah-mubeen/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project2&theme=algolia" alt="Project 2" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project2&theme=algolia" alt="Project 2" />
   </a>
-</div>
- 
-<div align="center">
-  <a href="https://github.com/abdullah-mubeen/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project1&theme=algolia" alt="Project 1" width="400" />
-  </a>
-  <a href="https://github.com/abdullah-mubeen/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project2&theme=algolia" alt="Project 2" width="400" />
-  </a>
-</div>
-
-
-<!-- Fun Facts -->
-<h3 align="center">🎉 Fun Facts</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o85xk5oJhOideN9sA/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Jokes Card" />
 </p>
 
 <!-- Connect with me -->
