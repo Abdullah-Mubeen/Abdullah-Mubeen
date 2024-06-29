@@ -28,6 +28,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"/>
 </p>
 
+<!-- Fun Fact -->
+## 🎭 Fact of the Day
+
+<p align="center">
+  <a href="https://readme-jokes.vercel.app/api?theme=algolia" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Jokes Card" style="max-width: 100%;">
+  </a>
+</p>
+
 
 
 <!-- GitHub Stats -->
