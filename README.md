@@ -29,9 +29,8 @@
 </p>
 
 <!-- Fun Fact -->
-## 🎭 Fact of the Day
-
 <p align="center">
+  ## 🎭 Fact of the Day
   <a href="https://readme-jokes.vercel.app/api?theme=algolia" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Jokes Card" style="max-width: 100%;">
   </a>
