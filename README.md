@@ -44,16 +44,28 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-mubeen&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
+
 <!-- Featured Projects -->
 <h3 align="center">📂 Featured Projects</h3>
-<p align="center">
+
+<div align="center">
   <a href="https://github.com/abdullah-mubeen/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project1&theme=algolia" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project1&theme=algolia" alt="Project 1" width="400" />
   </a>
   <a href="https://github.com/abdullah-mubeen/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project2&theme=algolia" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project2&theme=algolia" alt="Project 2" width="400" />
   </a>
-</p>
+</div>
+ 
+<div align="center">
+  <a href="https://github.com/abdullah-mubeen/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project1&theme=algolia" alt="Project 1" width="400" />
+  </a>
+  <a href="https://github.com/abdullah-mubeen/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project2&theme=algolia" alt="Project 2" width="400" />
+  </a>
+</div>
+
 
 <!-- Fun Facts -->
 <h3 align="center">🎉 Fun Facts</h3>
