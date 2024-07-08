@@ -38,25 +38,6 @@
 </p>
 
 
-
-
-<!-- Top Languages -->
-<h3 align="center">🔝 Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-mubeen&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
-
-<!-- Featured Projects -->
-<!--<h3 align="center">📂 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/abdullah-mubeen/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project1&theme=algolia" alt="Project 1" />
-  </a>
-  <a href="https://github.com/abdullah-mubeen/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullah-mubeen&repo=project2&theme=algolia" alt="Project 2" />
-  </a>
-</p> -->
-
 <!-- Connect with me -->
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
