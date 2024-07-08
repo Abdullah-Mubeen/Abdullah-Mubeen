@@ -39,11 +39,6 @@
 
 
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-mubeen&show_icons=true&theme=algolia" alt="GitHub Stats" />
-</p>
 
 <!-- Top Languages -->
 <h3 align="center">🔝 Top Languages</h3>
